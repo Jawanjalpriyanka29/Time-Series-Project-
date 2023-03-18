@@ -1,2 +1,2 @@
 # Time-Series-Project-
-Time Series Project  using date and value column in dataset plotted graphs
+ Graphs were developed by using LSTM method.
